@@ -1,0 +1,14 @@
+location:
+  address: 438 Rathdowne Road, Carlton North VIC 3001
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.126930629796!2d144.972554!3d-37.787065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad6433aa5d77473%3A0xb9d70e0bec107a77!2sBlueberry%20Coffee!5e0!3m2!1sen!2sau!4v1664330682386!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/CafeBuCarltonNorth/posts
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:(+xx) xxxxxxxxx
